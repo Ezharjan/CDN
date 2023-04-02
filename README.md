@@ -1,6 +1,12 @@
 # CDN
 This repo is basically used for holding the static files to be delivered aiming to speed up the visiting performance, by Alexander Ezharjan.
 
+For example:
+https://cdn.jsdelivr.net/gh/Ezharjan/cv/package.json
+
+<br>
+<br>
+<br>
 
 ## 通过jsDelivr引用资源
 
